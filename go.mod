@@ -1,4 +1,4 @@
-module github.com/Gouef/tester
+module github.com/gouef/tester
 
 go 1.23.2
 
